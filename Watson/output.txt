@@ -1,0 +1,675 @@
+{
+  "annotations": [
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.91049135,
+      "text_index": [
+        10,
+        19
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.9092898,
+      "text_index": [
+        1740,
+        1749
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.9030694,
+      "text_index": [
+        2670,
+        2679
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.90180796,
+      "text_index": [
+        47,
+        56
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.8967209,
+      "text_index": [
+        2627,
+        2636
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.8912436,
+      "text_index": [
+        2416,
+        2425
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.88899887,
+      "text_index": [
+        1974,
+        1983
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.888376,
+      "text_index": [
+        1114,
+        1123
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.8801956,
+      "text_index": [
+        1879,
+        1888
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.87828857,
+      "text_index": [
+        122,
+        131
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.8756437,
+      "text_index": [
+        381,
+        390
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.87252396,
+      "text_index": [
+        1693,
+        1698
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.87213254,
+      "text_index": [
+        1858,
+        1863
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.86044216,
+      "text_index": [
+        1559,
+        1563
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.8604027,
+      "text_index": [
+        1525,
+        1529
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.8557922,
+      "text_index": [
+        1036,
+        1040
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.85324645,
+      "text_index": [
+        1058,
+        1066
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.85213834,
+      "text_index": [
+        661,
+        666
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.8518248,
+      "text_index": [
+        1681,
+        1685
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.8509628,
+      "text_index": [
+        1516,
+        1521
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.8494629,
+      "text_index": [
+        621,
+        626
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.8482696,
+      "text_index": [
+        706,
+        711
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.84776145,
+      "text_index": [
+        1705,
+        1709
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.84403414,
+      "text_index": [
+        32,
+        36
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(short_story)",
+        "label": "Bitch (short story)"
+      },
+      "score": 0.83762276,
+      "text_index": [
+        2565,
+        2570
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.8374482,
+      "text_index": [
+        766,
+        771
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.8346378,
+      "text_index": [
+        1017,
+        1021
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.82174206,
+      "text_index": [
+        282,
+        287
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.8202975,
+      "text_index": [
+        272,
+        276
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Lil_B",
+        "label": "Lil B"
+      },
+      "score": 0.81939703,
+      "text_index": [
+        748,
+        757
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Fuck",
+        "label": "Fuck"
+      },
+      "score": 0.80971646,
+      "text_index": [
+        2434,
+        2438
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Nigger",
+        "label": "Nigger"
+      },
+      "score": 0.8062523,
+      "text_index": [
+        2521,
+        2528
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Nigga",
+        "label": "Nigga"
+      },
+      "score": 0.80239284,
+      "text_index": [
+        1890,
+        1895
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(short_story)",
+        "label": "Bitch (short story)"
+      },
+      "score": 0.80014753,
+      "text_index": [
+        2260,
+        2265
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Nigga",
+        "label": "Nigga"
+      },
+      "score": 0.7907752,
+      "text_index": [
+        1833,
+        1839
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Bitch_(insult)",
+        "label": "Bitch (insult)"
+      },
+      "score": 0.7795085,
+      "text_index": [
+        40,
+        45
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Swag_(bedroll)",
+        "label": "Swag (bedroll)"
+      },
+      "score": 0.7774182,
+      "text_index": [
+        63,
+        67
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Wonton_noodles",
+        "label": "Wonton noodles"
+      },
+      "score": 0.77189445,
+      "text_index": [
+        202,
+        213
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Wonton_noodles",
+        "label": "Wonton noodles"
+      },
+      "score": 0.7339043,
+      "text_index": [
+        298,
+        309
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Wonton_noodles",
+        "label": "Wonton noodles"
+      },
+      "score": 0.7284259,
+      "text_index": [
+        320,
+        331
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Hook_(film)",
+        "label": "Hook (film)"
+      },
+      "score": 0.71961147,
+      "text_index": [
+        137,
+        141
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/God",
+        "label": "God"
+      },
+      "score": 0.70165956,
+      "text_index": [
+        6,
+        9
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Wonton_noodles",
+        "label": "Wonton noodles"
+      },
+      "score": 0.6982392,
+      "text_index": [
+        504,
+        515
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Chang_(instrument)",
+        "label": "Chang (instrument)"
+      },
+      "score": 0.67979217,
+      "text_index": [
+        542,
+        547
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Chang_(instrument)",
+        "label": "Chang (instrument)"
+      },
+      "score": 0.67979217,
+      "text_index": [
+        548,
+        553
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/God",
+        "label": "God"
+      },
+      "score": 0.67509216,
+      "text_index": [
+        113,
+        116
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Chang_(instrument)",
+        "label": "Chang (instrument)"
+      },
+      "score": 0.67430407,
+      "text_index": [
+        536,
+        541
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Ace",
+        "label": "Ace"
+      },
+      "score": 0.6704904,
+      "text_index": [
+        884,
+        887
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Ring_(jewellery)",
+        "label": "Ring (jewellery)"
+      },
+      "score": 0.6685783,
+      "text_index": [
+        470,
+        475
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Cocaine",
+        "label": "Cocaine"
+      },
+      "score": 0.6284616,
+      "text_index": [
+        781,
+        788
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Mae_Young",
+        "label": "Mae Young"
+      },
+      "score": 0.62256384,
+      "text_index": [
+        370,
+        380
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Andy_Milonakis",
+        "label": "Andy Milonakis"
+      },
+      "score": 0.59017324,
+      "text_index": [
+        2116,
+        2130
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Shame",
+        "label": "Shame"
+      },
+      "score": 0.55785084,
+      "text_index": [
+        715,
+        720
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/AK-47",
+        "label": "AK-47"
+      },
+      "score": 0.5212926,
+      "text_index": [
+        604,
+        609
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Felony",
+        "label": "Felony"
+      },
+      "score": 0.5178459,
+      "text_index": [
+        1272,
+        1280
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Robbery",
+        "label": "Robbery"
+      },
+      "score": 0.5064814,
+      "text_index": [
+        1305,
+        1320
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Ostrich",
+        "label": "Ostrich"
+      },
+      "score": 0.48873585,
+      "text_index": [
+        2326,
+        2333
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Frasier",
+        "label": "Frasier"
+      },
+      "score": 0.48351583,
+      "text_index": [
+        2103,
+        2110
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Prison",
+        "label": "Prison"
+      },
+      "score": 0.4518636,
+      "text_index": [
+        972,
+        976
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Internet",
+        "label": "Internet"
+      },
+      "score": 0.33662656,
+      "text_index": [
+        1177,
+        1185
+      ]
+    },
+    {
+      "concept": {
+        "id": "/graphs/wikipedia/en-20120601/concepts/Georgia_(U.S._state)",
+        "label": "Georgia (U.S. state)"
+      },
+      "score": 0.24963424,
+      "text_index": [
+        1670,
+        1677
+      ]
+    }
+  ]
+}
